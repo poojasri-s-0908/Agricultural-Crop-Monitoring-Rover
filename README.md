@@ -45,35 +45,25 @@ An integrated sensing mechanism is designed to adjust according to crop height a
 
 ## Major Systems
 
-### 🛞 Mobility System
+###  Mobility System
 - Rocker-bogie suspension mechanism
 - Ground-based mobile platform
 - Agricultural terrain navigation
 
-### 🌱 Crop Monitoring System
+###  Crop Monitoring System
 - VOC-based sensing
 - Vision-based disease recognition
 - Crop health monitoring
 
-### ↕️ Adjustable Sensing Mechanism
+###  Adjustable Sensing Mechanism
 - Height-adjustable sensor assembly
 - Mechanical deployment system
 - Rotating sensing arrangement
 
-### 📍 Monitoring & Communication
+###  Monitoring & Communication
 - GPS-based location tagging
 - Sensor and visual data processing
 - Remote monitoring and alert capability
-
-
-## Current Status
-
-- Mechanical rover platform: Developed
-- Rocker-bogie mechanism: Implemented
-- Adjustable sensing mechanism: Developed
-- Crop monitoring system: Integrated
-- Prototype: Developed
-- Patent application: Published
 
 
 ## Patent
@@ -90,32 +80,18 @@ Detailed design specifications, proprietary implementation details, and addition
 
 ### Rover Design
 
-<!-- Add CAD / rover image -->
+<img width="940" height="713" alt="image" src="https://github.com/user-attachments/assets/2744b4fa-3f30-4d1a-be2f-e1f733362f2a" />
 
-### Adjustable Sensing Mechanism
+<img width="940" height="550" alt="image" src="https://github.com/user-attachments/assets/84a53dd1-ba3f-46fe-ab89-9e14020ac27e" />
 
-<!-- Add mechanism image -->
+### Prototype & Testing
 
-### Prototype
+<img width="1433" height="896" alt="image" src="https://github.com/user-attachments/assets/309ff1de-30bc-41b0-998e-6dc3f9b2769f" />
 
-<!-- Add prototype image -->
-
-### Testing
-
-<!-- Add testing image -->
 
 
 ## Team
 
-- Ren
 - Poojasri S
+- Nikilaa A
 - Roashinee M
-
-
-## Future Work
-
-- Expanded crop disease recognition
-- Improved autonomous navigation
-- Advanced crop monitoring capabilities
-- Field-scale testing
-- Enhanced data analysis
