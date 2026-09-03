@@ -4,36 +4,38 @@
 
 A ground-based agricultural rover designed for crop health and field condition monitoring.
 
-The system combines a rocker-bogie mobility platform with an adjustable sensing mechanism for monitoring agricultural crops across uneven field terrain. The rover integrates crop sensing, vision-based analysis, and location-based monitoring as part of a precision agriculture system.
+The system combines a rocker-bogie mobility platform with an adjustable sensing mechanism for monitoring crops across uneven agricultural terrain. It integrates chemical sensing, vision-based analysis, and location-based monitoring as part of a precision agriculture system.
 
 **Published Patent Application**  
 **Title:** Agricultural Crop Monitoring Rover  
 **Application No.:** 202641047663
 
 
+
 ## System Architecture
 
-Rocker-Bogie Rover
-        ↓
-Height-Adjustable Sensing System
-        ↓
-VOC-Based Plant Monitoring + Vision-Based Analysis
-        ↓
-Location Tagging & Data Processing
-        ↓
-Crop Health / Field Monitoring Output
+Rocker-Bogie Rover  
+↓  
+Height-Adjustable Sensing System  
+↓  
+Crop Monitoring  
+(VOC Sensing + Vision-Based Analysis)  
+↓  
+Location Tagging & Data Processing  
+↓  
+Monitoring Output
 
 
-## Features
+## Key Features
 
 - Rocker-bogie based rover platform
-- Designed for navigation across uneven agricultural terrain
+- Designed for uneven agricultural terrain
 - Height-adjustable sensing mechanism
-- Rotating sensing arrangement for crop interaction
-- VOC-based plant stress monitoring
+- Rotating sensing arrangement
+- VOC-based crop monitoring
 - Vision-based crop disease analysis
 - GPS-based location tagging
-- Integrated communication and monitoring system
+- Integrated monitoring and communication
 
 
 ## Mobility & Sensing
@@ -45,25 +47,25 @@ An integrated sensing mechanism is designed to adjust according to crop height a
 
 ## Major Systems
 
-###  Mobility System
+### Mobility System
 - Rocker-bogie suspension mechanism
 - Ground-based mobile platform
 - Agricultural terrain navigation
 
-###  Crop Monitoring System
+### Crop Monitoring System
 - VOC-based sensing
 - Vision-based disease recognition
 - Crop health monitoring
 
-###  Adjustable Sensing Mechanism
+### Adjustable Sensing System
 - Height-adjustable sensor assembly
-- Mechanical deployment system
+- Mechanical deployment mechanism
 - Rotating sensing arrangement
 
-###  Monitoring & Communication
+### Monitoring & Communication
 - GPS-based location tagging
 - Sensor and visual data processing
-- Remote monitoring and alert capability
+- Remote monitoring capability
 
 
 ## Patent
@@ -80,9 +82,8 @@ Detailed design specifications, proprietary implementation details, and addition
 
 ### Rover Design
 
-<img width="940" height="713" alt="image" src="https://github.com/user-attachments/assets/2744b4fa-3f30-4d1a-be2f-e1f733362f2a" />
+<img width="770" height="663" alt="image" src="https://github.com/user-attachments/assets/11f0d4b6-5ecf-4384-abe9-1643bb405b0e" />
 
-<img width="940" height="550" alt="image" src="https://github.com/user-attachments/assets/84a53dd1-ba3f-46fe-ab89-9e14020ac27e" />
 
 ### Prototype & Testing
 
